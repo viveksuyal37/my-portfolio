@@ -3,7 +3,8 @@
 }
 
 .about_img {
-  width: 350px;
+  width: 250px;
+  height: 350px;
   border-radius: 1rem;
   justify-self: center;
 }
@@ -51,7 +52,7 @@
   }
 
   .about_img {
-    width: 250px;
+    width: 80vw;
   }
 
   .about_box {

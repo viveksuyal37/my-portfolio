@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImg from "../assets/about.jpg";
+import AboutImg from "../assets/about.png";
 import Resume from "../assets/Cv.pdf";
 import InfoBoxes from "./InfoBoxes";
 import "./About.css";
