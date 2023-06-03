@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import SocialMediaLinks from "./SocialMediaLinks";
 import HomeData from "./HomeData";
 import ScrollDown from "./ScrollDown";
@@ -11,6 +11,7 @@ const Home = () => {
         <div className="grid home_content">
           <SocialMediaLinks />
           <div className="home_img"></div>
+
           <HomeData />
         </div>
         <ScrollDown />

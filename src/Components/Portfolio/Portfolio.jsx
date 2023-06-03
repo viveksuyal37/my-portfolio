@@ -10,8 +10,8 @@ const Portfolio = () => {
       <span className="section_subtitle">My recent work</span>
 
       <div className="portfolio_container">
-        {Work &&
-          Work.map((work) => {
+        {
+          Work?.map((work) => {
            return <Card work={work} key={work.id}/>;
           })}
       </div>

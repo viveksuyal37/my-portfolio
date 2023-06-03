@@ -34,14 +34,21 @@ const Frontend = () => {
           <div className="skills_data">
             <i className="fa-regular fa-circle-check"></i>
             <div>
-              <h3 className="skills_name">Reactjs</h3>
+              <h3 className="skills_name">ReactJS</h3>
               <span className="skills_level">Intermediate</span>
             </div>
           </div>
           <div className="skills_data">
             <i className="fa-regular fa-circle-check"></i>
             <div>
-              <h3 className="skills_name">Bootstrap</h3>
+              <h3 className="skills_name">NextJS</h3>
+              <span className="skills_level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills_data">
+            <i className="fa-regular fa-circle-check"></i>
+            <div>
+              <h3 className="skills_name">Chakra UI</h3>
               <span className="skills_level">Intermediate</span>
             </div>
           </div>

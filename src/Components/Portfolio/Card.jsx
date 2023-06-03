@@ -1,5 +1,5 @@
 
-import { Button, Card } from 'antd';
+import { Button, Card } from 'antd/lib';
 
 const { Meta } = Card;
 
