@@ -20,7 +20,7 @@ function App() {
       <Services />
       <Qualification />
       <Portfolio />
-   //   <Testimonials />
+   {/*   <Testimonials /> */}
       <Contact />
     </>
   );
