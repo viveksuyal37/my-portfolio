@@ -20,7 +20,7 @@ const About = () => {
             creating 10+ projects so far and some complex one`s are on the way.
           </p>
 
-          <a href={Resume} download='Vivek-resume' className="btn btn_flex">
+          <a href={Resume} download="Vivek-resume" className="btn btn_flex">
             Get Resume
             <svg
               className="button__icon"

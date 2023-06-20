@@ -1,4 +1,4 @@
-import React, { Suspense } from "react";
+import React from "react";
 import SocialMediaLinks from "./SocialMediaLinks";
 import HomeData from "./HomeData";
 import ScrollDown from "./ScrollDown";
